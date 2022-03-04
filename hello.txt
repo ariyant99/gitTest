@@ -4,4 +4,4 @@ Some more text.
 
 Some more more text..
 
-Some text in side branch..(__)
+Some text in side branch..
